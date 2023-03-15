@@ -1,0 +1,7 @@
+echo "# lamonnay-OBH-" >> README.md
+git init
+git ajouter README.md
+git commit -m "first commit"
+git branche -M principal
+git remote add origin https://github.com/lamonnay/lamonnay-OBH-.git
+git push -u origine principale
